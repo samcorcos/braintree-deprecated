@@ -1,7 +1,8 @@
 Meteor.startup(function() {
-  let util = require('util');
-  let braintree = require('braintree');
-
+  // let braintree = Meteor.npmRequire('braintree');
+  // console.log(braintree);
+  console.log(builder);
+  let braintree = require("braintree")
   console.log(braintree);
 })
 
