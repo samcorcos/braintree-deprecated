@@ -1,0 +1,13 @@
+{
+  "public": {
+    "braintree": {
+      "merchantId": "h5kbfkyg39556w99",
+      "publicKey": "nfrshhq53xpxcbmj"
+    }
+  },
+  "private": {
+    "braintree": {
+      "privateKey": "4b4122da133cf17de12e9bb99b1cdaa1"
+    }
+  }
+}
